@@ -1,6 +1,6 @@
 [submodule "lib"]
 	path = lib
-	url = https://github.com/diggit/scopehal.git
+	url = https://github.com/murdoa/scopehal.git
 [submodule "doc"]
 	path = doc
 	url = https://github.com/ngscopeclient/scopehal-docs.git
